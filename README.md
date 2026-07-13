@@ -84,6 +84,14 @@ No installation is required.
 
 ---
 
+## Live Demo
+
+https://nomenaharilazarandria.github.io/Vanilla-JavaScript-Developer-Dashboard/
+
+---
+
+---
+
 ## 📚 What I Learned
 
 This was my most challenging Vanilla JavaScript project so far.
