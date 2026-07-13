@@ -73,7 +73,7 @@ This project helped me practice:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/vanilla-javaScript-developer-dashboard.git
+git clone https://github.com/your-username/Vanilla-JavaScript-Developer-Dashboard.git
 ```
 
 2. Open the project folder.
